@@ -2,7 +2,10 @@ import React from 'react'
 
 function CartoonComponent() {
   return (
-    <div>Cartoon</div>
+    <div>The Rick and Morty API
+
+      
+    </div>
   )
 }
 
